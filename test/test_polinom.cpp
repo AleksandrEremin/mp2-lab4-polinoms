@@ -1,4 +1,5 @@
 #include <gtest.h>
-#include "polinom.h"
+#include "polynomial.h"
 #include "monom.h"
 // тесты мономов и полиномов
+
